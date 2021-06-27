@@ -1,1 +1,1 @@
-# Circular-Hospitality-Summer-Project
+Model for the phase-I of the detection architecture
